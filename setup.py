@@ -16,6 +16,7 @@ setup(
         'cryptography >= 0.9',
         'pyOpenSSL >= 0.15.1',
         'service_identity >= 14.0.0',
+        'requests >= 2.31.0',
     ],
     test_requires=[
         'pytest'
